@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\PaintApp\PaintApp\bin\Debug\PaintApp.exe.config
+c:\users\user\documents\visual studio 2015\Projects\PaintApp\PaintApp\bin\Debug\PaintApp.exe
+c:\users\user\documents\visual studio 2015\Projects\PaintApp\PaintApp\bin\Debug\PaintApp.pdb
+c:\users\user\documents\visual studio 2015\Projects\PaintApp\PaintApp\obj\Debug\PaintApp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\PaintApp\PaintApp\obj\Debug\PaintApp.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\PaintApp\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\PaintApp\PaintApp\obj\Debug\PaintApp.exe
+c:\users\user\documents\visual studio 2015\Projects\PaintApp\PaintApp\obj\Debug\PaintApp.pdb

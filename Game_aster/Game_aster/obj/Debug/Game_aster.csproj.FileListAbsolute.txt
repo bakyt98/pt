@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Game_aster\Game_aster\bin\Debug\Game_aster.exe.config
+C:\Users\user\documents\visual studio 2015\Projects\Game_aster\Game_aster\obj\Debug\Game_aster.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2015\Projects\Game_aster\Game_aster\obj\Debug\Game_aster.Form1.resources
+C:\Users\user\documents\visual studio 2015\Projects\Game_aster\Game_aster\obj\Debug\Game_aster.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2015\Projects\Game_aster\Game_aster\obj\Debug\Game_aster.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2015\Projects\Game_aster\Game_aster\bin\Debug\Game_aster.exe
+C:\Users\user\documents\visual studio 2015\Projects\Game_aster\Game_aster\bin\Debug\Game_aster.pdb
+C:\Users\user\documents\visual studio 2015\Projects\Game_aster\Game_aster\obj\Debug\Game_aster.exe
+C:\Users\user\documents\visual studio 2015\Projects\Game_aster\Game_aster\obj\Debug\Game_aster.pdb
