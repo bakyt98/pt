@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Sort_Prime_ReadAllLines\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Sort_Prime_ReadAllLines\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Sort_Prime_ReadAllLines\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

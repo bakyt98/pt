@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\string args\string args\bin\Debug\string args.exe.config
+c:\users\user\documents\visual studio 2015\Projects\string args\string args\bin\Debug\string args.exe
+c:\users\user\documents\visual studio 2015\Projects\string args\string args\bin\Debug\string args.pdb
+c:\users\user\documents\visual studio 2015\Projects\string args\string args\obj\Debug\string args.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\string args\string args\obj\Debug\string args.exe
+c:\users\user\documents\visual studio 2015\Projects\string args\string args\obj\Debug\string args.pdb

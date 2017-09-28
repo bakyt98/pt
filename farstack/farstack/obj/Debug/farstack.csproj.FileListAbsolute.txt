@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\farstack\farstack\bin\Debug\farstack.exe.config
+c:\users\user\documents\visual studio 2015\Projects\farstack\farstack\bin\Debug\farstack.exe
+c:\users\user\documents\visual studio 2015\Projects\farstack\farstack\bin\Debug\farstack.pdb
+c:\users\user\documents\visual studio 2015\Projects\farstack\farstack\obj\Debug\farstack.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\farstack\farstack\obj\Debug\farstack.exe
+c:\users\user\documents\visual studio 2015\Projects\farstack\farstack\obj\Debug\farstack.pdb

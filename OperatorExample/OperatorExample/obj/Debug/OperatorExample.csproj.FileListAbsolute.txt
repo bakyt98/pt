@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\OperatorExample\OperatorExample\bin\Debug\OperatorExample.exe.config
+c:\users\user\documents\visual studio 2015\Projects\OperatorExample\OperatorExample\bin\Debug\OperatorExample.exe
+c:\users\user\documents\visual studio 2015\Projects\OperatorExample\OperatorExample\bin\Debug\OperatorExample.pdb
+c:\users\user\documents\visual studio 2015\Projects\OperatorExample\OperatorExample\obj\Debug\OperatorExample.exe
+c:\users\user\documents\visual studio 2015\Projects\OperatorExample\OperatorExample\obj\Debug\OperatorExample.pdb

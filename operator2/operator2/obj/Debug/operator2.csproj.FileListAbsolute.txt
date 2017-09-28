@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\operator2\operator2\bin\Debug\operator2.exe.config
+c:\users\user\documents\visual studio 2015\Projects\operator2\operator2\bin\Debug\operator2.exe
+c:\users\user\documents\visual studio 2015\Projects\operator2\operator2\bin\Debug\operator2.pdb
+c:\users\user\documents\visual studio 2015\Projects\operator2\operator2\obj\Debug\operator2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\operator2\operator2\obj\Debug\operator2.exe
+c:\users\user\documents\visual studio 2015\Projects\operator2\operator2\obj\Debug\operator2.pdb

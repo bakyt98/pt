@@ -1,0 +1,7 @@
+
+Minimum number is 1
+Maximum number is 63
+Minimum number is 1
+Maximum number is 63
+Minimum number is 1
+Maximum number is 63

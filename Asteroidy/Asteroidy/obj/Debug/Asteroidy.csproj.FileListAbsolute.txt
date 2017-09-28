@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Asteroidy\Asteroidy\bin\Debug\Asteroidy.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Asteroidy\Asteroidy\bin\Debug\Asteroidy.exe
+c:\users\user\documents\visual studio 2015\Projects\Asteroidy\Asteroidy\bin\Debug\Asteroidy.pdb
+c:\users\user\documents\visual studio 2015\Projects\Asteroidy\Asteroidy\obj\Debug\Asteroidy.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Asteroidy\Asteroidy\obj\Debug\Asteroidy.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Asteroidy\Asteroidy\obj\Debug\Asteroidy.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Asteroidy\Asteroidy\obj\Debug\Asteroidy.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Asteroidy\Asteroidy\obj\Debug\Asteroidy.exe
+c:\users\user\documents\visual studio 2015\Projects\Asteroidy\Asteroidy\obj\Debug\Asteroidy.pdb
