@@ -20,7 +20,7 @@ namespace c
 
         private void button18_Click(object sender, EventArgs e)
         {
-            textBox1.Text = Convert.ToString(Math.Pow(Int16.Parse(textBox1.Text),(1/2)));
+            textBox1.Text = Convert.ToString(Math.Sqrt(Double.Parse(textBox1.Text)));
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -182,27 +182,74 @@ namespace c
 
         private void button17_Click(object sender, EventArgs e)
         {
-            textBox1.Text = Convert.ToString(Math.Pow(Int16.Parse(textBox1.Text),2));
+            textBox1.Text = Convert.ToString(Math.Pow(Convert.ToDouble(textBox1.Text),2));
         }
 
         private void button16_Click(object sender, EventArgs e)
         {
-            textBox1.Text = Convert.ToString(1 /( Int16.Parse(textBox1.Text)));
+            textBox1.Text = Convert.ToString(1 /( Convert.ToDouble(textBox1.Text)));
         }
 
         private void button19_Click(object sender, EventArgs e)
         {
-            String expression = textBox1.Text;
-            String pattern = @"(\d+)+([*])+(\d+)";
-            foreach (Match m in Regex.Matches(expression, pattern))
+            /* String expression = textBox1.Text;
+             String pattern = @"(\d+)+([*-+])+(\d+)";
+
+             foreach (Match m in Regex.Matches(expression, pattern))
+             {
+                 int value1 = Int32.Parse(m.Groups[1].Value);
+                 int value2 = Int32.Parse(m.Groups[3].Value);
+                 switch (m.Groups[2].Value) {
+                     case "*": {
+
+
+                             textBox1.Text = Convert.ToString(value1 * value2 / 100);
+                             break;
+                         }
+                     case "-": {
+                             textBox1.Text = Convert.ToString(value1 - (value1 * value2 / 100));
+                             break;
+                         }
+                     case "+":
+                         {
+                             textBox1.Text = Convert.ToString(value1 + (value1 * value2 / 100));
+                             break;
+                         }
+                 }*/
+            double result = 0;
+            int j = 0;
+            String s = textBox1.Text;
+            String[] numbers = s.Split('+', '-', '*');
+            String[] operations = s.Split('0', '1', '2', '3', '4', '5', '6', '7', '8', '9');
+            for (int i = 0; i < operations.Length; i++)
             {
-                int value1 = Int32.Parse(m.Groups[1].Value);
-                int value2 = Int32.Parse(m.Groups[3].Value);
-                if (m.Groups[2].Value == "*")
-                    textBox1.Text = Convert.ToString(value1 * value2 / 100);
-               
+                if (operations[i] == "+")
+                {
+                    result = Convert.ToDouble(numbers[j]) + Convert.ToDouble(numbers[j])*Convert.ToDouble(numbers[j + 1])/100;
+                    numbers[j + 1] = Convert.ToString(result);
+                    j++;
+                }
+                if (operations[i] == "-")
+                {
+                    result = Convert.ToDouble(numbers[j]) - Convert.ToDouble(numbers[j])*Convert.ToDouble(numbers[j + 1])/100;
+                    numbers[j + 1] = Convert.ToString(result);
+                    j++;
+                }
+                if (operations[i] == "*")
+                {
+                    result = Convert.ToDouble(numbers[j]) * Convert.ToDouble(numbers[j + 1])/100;
+                    numbers[j + 1] = Convert.ToString(result);
+                    j++;
+                }
                 
             }
+            textBox1.Text = Convert.ToString(result);
+
+
+
+
+        
+        
         }
 
         private void button28_Click(object sender, EventArgs e)
